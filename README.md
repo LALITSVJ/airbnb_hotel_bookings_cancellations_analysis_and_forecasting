@@ -11,4 +11,5 @@ This project analyzes hotel booking cancellations for Airbnb hotels using Micros
 **5. Pareto Chart Analysis**: Identified and prioritized the significant reasons for cancellations using the 80/20 rule.  
 
 **Dataset:** Hotel booking cancellations over Kaggle (https://www.kaggle.com/datasets/mojtaba142/hotel-booking)
+
 **Dataset File:** hotel_booking_dataset.csv
